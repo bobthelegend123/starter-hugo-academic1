@@ -13,4 +13,5 @@ design:
     gradient_end: "#6e7ea9"
     text_color_light: true
     image_darken: 0
+    image: icon.png
 ---
