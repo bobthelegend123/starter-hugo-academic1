@@ -1,7 +1,7 @@
 ---
-title: Nelson Bighetti
+title: XinRui
 role: Professor of Artificial Intelligence
-avatar_filename: project-tao-logo-black.jpg
+avatar_filename: doraemon-2.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
