@@ -1,7 +1,7 @@
 ---
 title: XinRui
 role: Professor of Artificial Intelligence
-avatar_filename: ""
+avatar_filename: doraemon-wallpapers-hd-for-desktop.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
