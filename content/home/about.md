@@ -11,7 +11,7 @@ design:
     color: "#7e82c3"
     gradient_start: "#030756"
     gradient_end: "#6e7ea9"
-    text_color_light: true
+    text_color_light: false
     image_darken: 0
     image: doraemon-wallpapers-hd-for-desktop.jpg
 ---
