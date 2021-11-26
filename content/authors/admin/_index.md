@@ -4,9 +4,9 @@ role: Student
 avatar_filename: avatar.jpg
 bio: "I like physics, art and recently started learning programming. "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Physics
+  - Art
+  - Research
 social:
   - icon: envelope
     icon_pack: fas
