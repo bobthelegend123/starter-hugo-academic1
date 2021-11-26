@@ -44,4 +44,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi, I am a student from Hwa Chong Institution. I was in the school's *Science and Math Talent Programme*and *Art Elective Programme.* My interests include drawing (e.g. urban sketching, painting) and physics (particularly in the field of electromagnetism (for the time being...)). The elegance and beauty of physics intrigued me to learn more about it.
+Hi, I am a 16 year-old student from Hwa Chong Institution. I was in the school's *Science and Math Talent Programme*and *Art Elective Programme.* My interests include drawing (e.g. urban sketching, painting) and physics (particularly in the field of electromagnetism (for the time being...)). The elegance and beauty of physics intrigued me to learn more about it.
