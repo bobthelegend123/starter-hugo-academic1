@@ -34,15 +34,12 @@ organizations:
     url: http://www.ri.edu.sg/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "Science and Math Talent Programme "
+      institution: Hwa Chong Institution
+      year: 2020
+    - course: Art Elective Programme
+      institution: Hwa Chong Institution
+      year: 2018
 email: ""
 superuser: true
 highlight_name: true
