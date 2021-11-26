@@ -27,7 +27,7 @@ social:
       header: false
     icon_pack: fab
     icon: instagram
-    label: lol
+    label: ""
     link: https://www.instagram.com/xinrui.li.7/
 organizations:
   - name: Hwa Chong Institution
