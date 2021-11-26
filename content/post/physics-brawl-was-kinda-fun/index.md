@@ -9,4 +9,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+![yay](hehe.jpg "yay")
+
 Physics brawl was fun
