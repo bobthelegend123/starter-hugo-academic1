@@ -1,9 +1,8 @@
 ---
-title: XinRui
-role: "Senior Level Consultant "
+title: Xin Rui
+role: Student
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "I like physics, art and recently started learning programming. "
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -42,7 +41,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Hi, i am not gay
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Hi, I am a student from Hwa Chong Institution. I was in the school's *Science and Math Talent Programme*and *Art Elective Programme.* My interests include drawing (e.g. urban sketching, painting) and physics (particularly in the field of electromagnetism (for the time being...)). The elegance and beauty of physics intrigued me to learn more about it.
