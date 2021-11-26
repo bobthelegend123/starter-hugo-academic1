@@ -4,10 +4,10 @@ slides: example
 url_pdf: ""
 title: Dynamics of a rigid bouncing capsule
 subtitle: Singapore Young Physicist Tournament 2021
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 summary: Crazy tic tac bounce ?!
 url_video: ""
-featured: true
+featured: false
 external_link: Physics
 url_slides: ""
 tags:
