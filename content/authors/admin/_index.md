@@ -23,8 +23,14 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - display:
+      header: false
+    icon_pack: fab
+    icon: instagram
+    label: lol
+    link: https://www.instagram.com/xinrui.li.7/
 organizations:
-  - name: Raffles Institution
+  - name: Hwa Chong Institution
     url: http://www.ri.edu.sg/
 education:
   courses:
